@@ -2,7 +2,7 @@
 
 
 
-**Here are some ideas to get our started:**
+**Here are some ideas to get we started:**
 
 🙋‍♀️ A short introduction - RunAsh Son's of Industries is a digital business accelerator<br>
 🌈 Contribution guidelines - how can the community get involved?<br>
